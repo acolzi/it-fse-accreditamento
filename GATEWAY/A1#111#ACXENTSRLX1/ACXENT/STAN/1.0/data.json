@@ -1,0 +1,43 @@
+{
+  "appVendor": "ACXENT",
+  "appID": "STAN",
+  "appVersion": "1.0",
+  "results": [
+    {
+      "id": 448,
+      "ts": "2026-05-09T15:08:12Z",
+      "traceId": "fb9583e235cf4034cc4be17dee274a37",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.758cf63e522580d63d2f209357a95032b24bdbc4797f2654288a8954cc280a74.a6a174a334^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "20677018_MCLCCT54S44F158R_referto_cda.pdf"
+      ]
+    },
+    {
+      "id": 449,
+      "ts": "2026-05-09T15:08:12Z",
+      "traceId": "fb9583e235cf4034cc4be17dee274a37",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.758cf63e522580d63d2f209357a95032b24bdbc4797f2654288a8954cc280a74.a6a174a334^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "20677018_MCLCCT54S44F158R_referto_cda.pdf"
+      ]
+    },
+    {
+      "id": 471,
+      "ts": "2026-05-09T15:12:53Z",
+      "traceId": "9edf791d52746bce73dc3cdad855944f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.f1b7652d26803e665e2dcf54b27b9729406afd274cab278cc1baf5b9c6ffdeda.87131c6da2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "20676858_MCLCCT54S44F158R_referto_cda.pdf"
+      ]
+    },
+    {
+      "id": 472,
+      "ts": "2026-05-09T15:12:53Z",
+      "traceId": "9edf791d52746bce73dc3cdad855944f",
+      "workflowInstanceId": "2.16.840.1.113883.2.9.2.120.4.4.f1b7652d26803e665e2dcf54b27b9729406afd274cab278cc1baf5b9c6ffdeda.87131c6da2^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+      "files": [
+        "20676858_MCLCCT54S44F158R_referto_cda.pdf"
+      ]
+    }
+  ]
+}
